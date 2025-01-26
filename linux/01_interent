@@ -1,1 +1,22 @@
-🎯How the Internet works?
+🎯 How the Internet works?
+    1) Data is trasferred through optical fibres and fiber cables under the
+       sea connecting Data Centers.
+    2) These cables are owned by companies like Jio, which monitize the extraction/
+       sharing the data from ISP.
+    3) Now the ISP(Internet Service Providers) charge money from people and give 
+       them IP Address to use this internet.
+
+🎯 What is Server?
+    1) Server is a computer which serves the information. 
+    2) When you request youtube.com from the browser it request the ISP,
+       for the domain name youtube and finds it IP address. The domain name
+       and IP address are linked thorough another server known as DNS(Domain Name Server).
+
+🎯 Web Server vs Application Server?
+    1) web serves serves static data.
+    2) app serves serves dynamic data.
+
+🎯 Types of Application
+    1) StandAlone App: No need for a database server.
+    2) Web Application:  A full fledged Application which is supported by many servers.
+    
