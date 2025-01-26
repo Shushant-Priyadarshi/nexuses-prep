@@ -1,0 +1,57 @@
+🎯 What is Linux:
+    1) Linux is an open source operating system.
+    2) Created by Linux torvalds in 1991.
+    3) No Antivirus needed, gr8 security, open source
+
+🎯 What is Unix?
+    Unix is a family of operating systems that originated in the late 1960s at AT&T's Bell Labs. It was designed to be a multiuser, multitasking operating system with a simple and modular architecture, making it highly portable and reliable. Unix is not just an operating system but also a set of design philosophies that prioritize:
+
+   1) Simplicity: Each program should do one thing well.
+   2) Modularity: Small tools that can be combined to perform complex tasks.
+   3) Portability: It can run on different hardware platforms.
+   4) Text-based Configuration: System interactions are file-based, 
+         often manipulated using text editors.
+
+🎯 BootLoader:
+    1) A small program that loads the operating system.
+    2) Starts the Linux kernel during the boot process.
+    3)Functions:
+        a) Initializes hardware (keyboard, screen, etc.).
+        b) Loads the Linux kernel into memory.
+        c) May allow the user to choose between multiple operating systems.
+        ⭐️Examples: GRUB (GNU GRUB), LILO.
+
+🎯 Kernel:
+    1) The core of the Linux operating system.
+    2) Acts as a bridge between hardware and software.
+    3)Functions:
+        a) Manages hardware resources (CPU, memory, devices).
+        b) Allocates resources to programs.
+        c) Ensures system stability and multitasking.
+        ⭐️Example: The Linux Kernel 
+    
+   🎯 The Linux Kernel :
+        The Linux kernel is the core component of the Linux operating system.
+
+        🎯 How the Linux Kernel Works?
+            1) Interaction with Hardware:The kernel communicates directly with the hardware using device drivers.For example, when you type something, the kernel receives input from the keyboard and sends it to the application.
+
+            2) Resource Management:The kernel allocates system resources (CPU time, memory, etc.) to processes (programs running on your computer).It ensures no two processes interfere with each other.
+
+            3) Process Management:Every running program (process) is managed by the kernel.It decides which process runs, for how long, and in what order (using a scheduler).
+
+            4)The kernel organizes how data is stored and retrieved on disks using file systems. For example, it translates a file path (like /home/user/file.txt) into physical disk locations.
+
+            5) Security and Isolation: The kernel enforces user permissions, ensuring that one user’s actions don’t affect others. It also isolates processes for security and stability.
+
+
+🎯 Shell:
+    1) A command-line interface (CLI) or program that interacts with the kernel.
+    2) Acts as a middleman between the user and the kernel.
+    3) Accepts user commands and translates them into instructions for the kernel.
+    4) Executes programs, scripts, and commands.
+    5) Types:
+       a) CLI Shells: Bash, Zsh, Fish.
+       b) Graphical Shells: GNOME Shell.
+
+
